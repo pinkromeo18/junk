@@ -6,5 +6,9 @@ font-family: 'dot';
 }
 ```
 ```
+font-variant-east-asian: full-width;
+font-feature-settings: "fwid";
+```
+```
 https://pinkromeo18.github.io/junk/
 ```
